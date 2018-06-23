@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/IT-Ice/web-cli/issues"
   },
-  "homepage": "https://github.com/IT-Ice/web-cli#readme"
+  "homepage": "https://github.com/IT-Ice/web-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^2.1.0"
+  }
 }
