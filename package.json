@@ -1,0 +1,23 @@
+{
+  "name": "web-cli",
+  "version": "1.0.0",
+  "description": "web脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT-Ice/web-cli.git"
+  },
+  "keywords": [
+    "web-cli",
+    "cli"
+  ],
+  "author": "ice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT-Ice/web-cli/issues"
+  },
+  "homepage": "https://github.com/IT-Ice/web-cli#readme"
+}
